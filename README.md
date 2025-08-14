@@ -23,26 +23,6 @@ It displays live train statuses, key performance statistics, and allows users to
 
 ---
 
-## 📂 Project Structure
-src/
-│
-├── components/
-│ ├── Header.jsx # App header and navigation
-│ ├── LiveStatus.jsx # Live train tracking UI
-│ ├── StatsCard.jsx # Reusable stat display card
-│ ├── TrainCard.jsx # Reusable train info card
-│
-├── data/
-│ └── mockData.js # Mock train data
-│
-├── utils/
-│ └── trainUtils.js # Utility functions (time formatting, progress calculation)
-│
-├── App.jsx # Main app container
-└── main.jsx # React entry point
-
----
-
 ## 🚀 Installation & Setup
 
 1. **Clone the repository:**
